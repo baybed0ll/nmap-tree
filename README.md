@@ -1,6 +1,6 @@
 # nmap-tree
 
-Parse greppable Nmap output as a tree
+Parse greppable Nmap output (nmap -oG) as a tree
 
 Usage:
 ```
